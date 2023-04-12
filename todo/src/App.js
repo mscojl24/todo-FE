@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-          프레임워크 추가
+          페이지 수정
       </header>
     </div>
   );
